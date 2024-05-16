@@ -2,6 +2,8 @@
 
 This is a repo of a bug with the React Compiler, Vite, and the Vite plugin for React which facilitates Fast Refresh.
 
+GitHub issue https://github.com/facebook/react/issues/29115
+
 ## Instructions
 
 1. Clone this repo
